@@ -1,0 +1,13 @@
+H1 {
+	text-align: center;
+	font-size: 30px;
+}
+
+#wrapper{
+	margin: auto;
+	width: 600px;
+}
+
+p input{
+	float: right;
+}
